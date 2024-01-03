@@ -16,9 +16,15 @@ Projeto de especialização em análise de dados desenvolvido durante a realiza�
 
 ## Aprendizagens
 - O que são arrays;
-- Como importar dados em formato CSV utilizando a função `loadtxt`;
+- Como importar e exportar dados em formato CSV utilizando as funções `loadtxt` e `savetxt`, respectivamente;
 - Análise dimensional com os atributos `ndim`, `size` e `shape`;
-- Transposição de arrays a partir do atributo `T`.
+- Transposição de arrays a partir do atributo `T`;
+- Comparação de arrays de forma gráfica;
+- Encontrar e lidar com valores NaN (Not a Number);
+- Operações entre arrays;
+- Geração de números pseudoaletórios;
+- O que é `seed` e como usar na geração de númeris pseudoaleatórios;
+- Combinação de arrays com `column_stack`.
 
 ## Como acessar o projeto?
 O projeto foi feito por completo no Google Colaboratory, logo, para acessar a análise, clique no link abaixo:
